@@ -1,0 +1,11 @@
+{
+  "name": "Mate Argento Coin",
+  "website": "https://tuweb.com",
+  "description": "Mate Argento Coin is a community-driven token inspired by Argentine mate culture.",
+  "explorer": "https://bscscan.com/token/0x4d885938176dbEbB5B1B32E12530196F2C5F654d",
+  "type": "BEP20",
+  "symbol": "MATE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4d885938176dbEbB5B1B32E12530196F2C5F654d"
+}
